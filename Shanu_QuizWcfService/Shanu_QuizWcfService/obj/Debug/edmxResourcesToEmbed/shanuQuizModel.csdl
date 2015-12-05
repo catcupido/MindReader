@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MindReaderModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Character_Name">
+    <Key>
+      <PropertyRef Name="Char_Name_ID" />
+    </Key>
+    <Property Name="Char_Name_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Character_ID" Type="Int32" />
+    <Property Name="Character_Name1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Character_Status" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Questions" Relationship="Self.fk_Character_Name" FromRole="Character_Name" ToRole="Questions" />
+    <NavigationProperty Name="Character_Type" Relationship="Self.fk_Character_Type" FromRole="Character_Name" ToRole="Character_Type" />
+  </EntityType>
+  <EntityType Name="Character_Type">
+    <Key>
+      <PropertyRef Name="Character_ID" />
+    </Key>
+    <Property Name="Character_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Profes_ID" Type="Int32" />
+    <Property Name="Character_Type1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Character_Name" Relationship="Self.fk_Character_Type" FromRole="Character_Type" ToRole="Character_Name" />
+    <NavigationProperty Name="Professional_Type" Relationship="Self.fk_Professional_Type" FromRole="Character_Type" ToRole="Professional_Type" />
+  </EntityType>
+  <EntityType Name="Professional_Type">
+    <Key>
+      <PropertyRef Name="Profes_ID" />
+    </Key>
+    <Property Name="Profes_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Profes_Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Character_Type" Relationship="Self.fk_Professional_Type" FromRole="Professional_Type" ToRole="Character_Type" />
+  </EntityType>
+  <EntityType Name="Questions">
+    <Key>
+      <PropertyRef Name="Question_ID" />
+    </Key>
+    <Property Name="Question_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Char_Name_ID" Type="Int32" />
+    <Property Name="Question" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Answer" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Character_Name" Relationship="Self.fk_Character_Name" FromRole="Questions" ToRole="Character_Name" />
+  </EntityType>
+  <Association Name="fk_Character_Name">
+    <End Role="Character_Name" Type="Self.Character_Name" Multiplicity="0..1" />
+    <End Role="Questions" Type="Self.Questions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Character_Name">
+        <PropertyRef Name="Char_Name_ID" />
+      </Principal>
+      <Dependent Role="Questions">
+        <PropertyRef Name="Char_Name_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_Character_Type">
+    <End Role="Character_Type" Type="Self.Character_Type" Multiplicity="0..1" />
+    <End Role="Character_Name" Type="Self.Character_Name" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Character_Type">
+        <PropertyRef Name="Character_ID" />
+      </Principal>
+      <Dependent Role="Character_Name">
+        <PropertyRef Name="Character_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_Professional_Type">
+    <End Role="Professional_Type" Type="Self.Professional_Type" Multiplicity="0..1" />
+    <End Role="Character_Type" Type="Self.Character_Type" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Professional_Type">
+        <PropertyRef Name="Profes_ID" />
+      </Principal>
+      <Dependent Role="Character_Type">
+        <PropertyRef Name="Profes_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="shanuMindReaderEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Character_Name" EntityType="Self.Character_Name" />
+    <EntitySet Name="Character_Type" EntityType="Self.Character_Type" />
+    <EntitySet Name="Professional_Type" EntityType="Self.Professional_Type" />
+    <EntitySet Name="Questions" EntityType="Self.Questions" />
+    <AssociationSet Name="fk_Character_Name" Association="Self.fk_Character_Name">
+      <End Role="Character_Name" EntitySet="Character_Name" />
+      <End Role="Questions" EntitySet="Questions" />
+    </AssociationSet>
+    <AssociationSet Name="fk_Character_Type" Association="Self.fk_Character_Type">
+      <End Role="Character_Type" EntitySet="Character_Type" />
+      <End Role="Character_Name" EntitySet="Character_Name" />
+    </AssociationSet>
+    <AssociationSet Name="fk_Professional_Type" Association="Self.fk_Professional_Type">
+      <End Role="Professional_Type" EntitySet="Professional_Type" />
+      <End Role="Character_Type" EntitySet="Character_Type" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

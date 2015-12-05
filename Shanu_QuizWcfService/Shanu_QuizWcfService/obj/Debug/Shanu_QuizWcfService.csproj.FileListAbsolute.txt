@@ -1,0 +1,24 @@
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.dll.config
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.pdb
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\EntityFramework.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\EntityFramework.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.csprojResolveAssemblyReference.cache
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.pdb
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.dll.config
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.pdb
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\EntityFramework.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\EntityFramework.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.csprojResolveAssemblyReference.cache
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.pdb
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.dll.config
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\Shanu_QuizWcfService.pdb
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\EntityFramework.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\bin\EntityFramework.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.pdb
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\Shanu_QuizWcfService\obj\Debug\Shanu_QuizWcfService.csprojResolveAssemblyReference.cache

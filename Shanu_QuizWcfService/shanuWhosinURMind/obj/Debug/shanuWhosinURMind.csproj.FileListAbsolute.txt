@@ -1,0 +1,176 @@
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.dll.config
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.pdb
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Antlr3.Runtime.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.SqlServer.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Google.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Web.Infrastructure.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Newtonsoft.Json.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Owin.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Helpers.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Mvc.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Optimization.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Razor.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Deployment.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Razor.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\WebGrease.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Helpers.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Mvc.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Optimization.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Razor.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Deployment.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Razor.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Antlr3.Runtime.pdb
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Newtonsoft.Json.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.SqlServer.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Google.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.csprojResolveAssemblyReference.cache
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.dll
+D:\Shanu\Shanu Projects\VisualStudio2013\WHOISINYOURMINDFINDER_Quiz\SourceCode\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.pdb
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.dll.config
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.pdb
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Antlr3.Runtime.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.SqlServer.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Newtonsoft.Json.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Owin.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Helpers.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Mvc.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Optimization.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Razor.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Deployment.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Razor.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\WebGrease.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Helpers.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Mvc.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Optimization.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Razor.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Deployment.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Razor.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Antlr3.Runtime.pdb
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Newtonsoft.Json.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.SqlServer.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.csprojResolveAssemblyReference.cache
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.dll
+C:\Users\A1\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.pdb
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.dll.config
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\shanuWhosinURMind.pdb
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Antlr3.Runtime.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.SqlServer.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Newtonsoft.Json.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Owin.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Helpers.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Mvc.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Optimization.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Razor.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\WebGrease.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Helpers.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Mvc.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Optimization.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Razor.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Antlr3.Runtime.pdb
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Newtonsoft.Json.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\EntityFramework.SqlServer.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.csprojResolveAssemblyReference.cache
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\obj\Debug\shanuWhosinURMind.pdb
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\Swashbuckle.Core.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Net.Http.Formatting.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Http.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Http.WebHost.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\WebActivatorEx.dll
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Net.Http.Formatting.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Http.xml
+C:\Users\Joakim\Documents\Visual Studio 2015\Projects\MindReader\Shanu_QuizWcfService\shanuWhosinURMind\bin\System.Web.Http.WebHost.xml

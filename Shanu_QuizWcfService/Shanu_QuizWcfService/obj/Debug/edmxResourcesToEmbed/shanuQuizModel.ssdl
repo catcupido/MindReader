@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MindReaderModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Character_Name">
+    <Key>
+      <PropertyRef Name="Char_Name_ID" />
+    </Key>
+    <Property Name="Char_Name_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Character_ID" Type="int" />
+    <Property Name="Character_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Character_Status" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Character_Type">
+    <Key>
+      <PropertyRef Name="Character_ID" />
+    </Key>
+    <Property Name="Character_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Profes_ID" Type="int" />
+    <Property Name="Character_Type" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Professional_Type">
+    <Key>
+      <PropertyRef Name="Profes_ID" />
+    </Key>
+    <Property Name="Profes_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Profes_Type" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Questions">
+    <Key>
+      <PropertyRef Name="Question_ID" />
+    </Key>
+    <Property Name="Question_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Char_Name_ID" Type="int" />
+    <Property Name="Question" Type="varchar" MaxLength="300" />
+    <Property Name="Answer" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="fk_Character_Name">
+    <End Role="Character_Name" Type="Self.Character_Name" Multiplicity="0..1" />
+    <End Role="Questions" Type="Self.Questions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Character_Name">
+        <PropertyRef Name="Char_Name_ID" />
+      </Principal>
+      <Dependent Role="Questions">
+        <PropertyRef Name="Char_Name_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_Character_Type">
+    <End Role="Character_Type" Type="Self.Character_Type" Multiplicity="0..1" />
+    <End Role="Character_Name" Type="Self.Character_Name" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Character_Type">
+        <PropertyRef Name="Character_ID" />
+      </Principal>
+      <Dependent Role="Character_Name">
+        <PropertyRef Name="Character_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_Professional_Type">
+    <End Role="Professional_Type" Type="Self.Professional_Type" Multiplicity="0..1" />
+    <End Role="Character_Type" Type="Self.Character_Type" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Professional_Type">
+        <PropertyRef Name="Profes_ID" />
+      </Principal>
+      <Dependent Role="Character_Type">
+        <PropertyRef Name="Profes_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MindReaderModelStoreContainer">
+    <EntitySet Name="Character_Name" EntityType="Self.Character_Name" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Character_Type" EntityType="Self.Character_Type" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Professional_Type" EntityType="Self.Professional_Type" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Questions" EntityType="Self.Questions" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_Character_Name" Association="Self.fk_Character_Name">
+      <End Role="Character_Name" EntitySet="Character_Name" />
+      <End Role="Questions" EntitySet="Questions" />
+    </AssociationSet>
+    <AssociationSet Name="fk_Character_Type" Association="Self.fk_Character_Type">
+      <End Role="Character_Type" EntitySet="Character_Type" />
+      <End Role="Character_Name" EntitySet="Character_Name" />
+    </AssociationSet>
+    <AssociationSet Name="fk_Professional_Type" Association="Self.fk_Professional_Type">
+      <End Role="Professional_Type" EntitySet="Professional_Type" />
+      <End Role="Character_Type" EntitySet="Character_Type" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

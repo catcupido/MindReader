@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MindReaderModelStoreContainer" CdmEntityContainer="shanuMindReaderEntities">
+    <EntitySetMapping Name="Character_Name">
+      <EntityTypeMapping TypeName="MindReaderModel.Character_Name">
+        <MappingFragment StoreEntitySet="Character_Name">
+          <ScalarProperty Name="Char_Name_ID" ColumnName="Char_Name_ID" />
+          <ScalarProperty Name="Character_ID" ColumnName="Character_ID" />
+          <ScalarProperty Name="Character_Name1" ColumnName="Character_Name" />
+          <ScalarProperty Name="Character_Status" ColumnName="Character_Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Character_Type">
+      <EntityTypeMapping TypeName="MindReaderModel.Character_Type">
+        <MappingFragment StoreEntitySet="Character_Type">
+          <ScalarProperty Name="Character_ID" ColumnName="Character_ID" />
+          <ScalarProperty Name="Profes_ID" ColumnName="Profes_ID" />
+          <ScalarProperty Name="Character_Type1" ColumnName="Character_Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Professional_Type">
+      <EntityTypeMapping TypeName="MindReaderModel.Professional_Type">
+        <MappingFragment StoreEntitySet="Professional_Type">
+          <ScalarProperty Name="Profes_ID" ColumnName="Profes_ID" />
+          <ScalarProperty Name="Profes_Type" ColumnName="Profes_Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Questions">
+      <EntityTypeMapping TypeName="MindReaderModel.Questions">
+        <MappingFragment StoreEntitySet="Questions">
+          <ScalarProperty Name="Question_ID" ColumnName="Question_ID" />
+          <ScalarProperty Name="Char_Name_ID" ColumnName="Char_Name_ID" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
